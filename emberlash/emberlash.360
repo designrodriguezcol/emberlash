@@ -1,6 +1,6 @@
 {
-    "horizontalFrames": 60,
-    "horizontalStartingIndex": 30,
+    "horizontalFrames": 30,
+    "horizontalStartingIndex": 15,
     "horizontalWrap": true,
     "name": "emberlash",
     "type": "KeyShotXR",
